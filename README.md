@@ -29,8 +29,8 @@
      - First of all I have designed a basic website and after that I have created a QNA MAKER and created a knowledeg base.then I have created a chatbot . 
      this chatbot is linked with the knowledge base.and this chatbot is linked in my webiste files.After completing this all coding work I had create a github repository and by using of static web app service,
      I have successfully hosted my website through github and azure static web app service.
-   <br><br>  **GitHub repository Url-** (https://github.com/saifalu/Your-Placement-Helper)
-     ![github repository screenshot](https://user-images.githubusercontent.com/92035012/163946536-d6dfed19-ea4f-4953-998e-0e26763e1e13.png)
+   <br><br>  **GitHub repository Url-** (https://github.com/Mohsinbro/healthcare)
+     
 
    <br><br>**the url of the project to visit** - (https://ashy-rock-0d5cd2100.1.azurestaticapps.net/)
     <br><br> **this is how the project looks like**
